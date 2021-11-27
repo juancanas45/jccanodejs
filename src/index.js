@@ -21,6 +21,7 @@ app.use(require("./routes/movies"));
 app.use(require("./routes/clientes"));
 app.use(require("./routes/form"));
 app.use(require("./routes/form2"));
+app.use(require("./routes/cedad"));
 
 
 
