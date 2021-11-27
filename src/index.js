@@ -21,11 +21,8 @@ app.use(require("./routes/movies"));
 app.use(require("./routes/clientes"));
 app.use(require("./routes/form"));
 app.use(require("./routes/form2"));
-<<<<<<< HEAD
 app.use(require("./routes/cedad"));
-=======
-app.use(require("./routes/dias"));
->>>>>>> 9b299708918e7cb0889a3a00efb97a9f056b7433
+
 
 
 
